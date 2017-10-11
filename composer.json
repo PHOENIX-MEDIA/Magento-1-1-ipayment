@@ -1,3 +1,8 @@
 {
-    "name": "phoenix-media/magento-1-1-ipayment"
+    "name": "phoenix-media/magento-1-1-ipayment",
+    "type": "magento-module",
+    "description": "Phoenix 1&1 iPayment module",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
 }
